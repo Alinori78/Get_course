@@ -1,3 +1,3 @@
 # Get_course
 For get course
-## notes
+## Project notes
